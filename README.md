@@ -12,7 +12,7 @@
 ```pip install -r requirements```
 * Do the required migration (if any).
 ```python manage.py makemigrations```
-* Migrate the migraionts
+* Migrate the migrations
 ```python manage.py migrate```
 * Run the server to run the application
 ```python manage.py runserver```
