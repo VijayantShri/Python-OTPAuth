@@ -17,4 +17,4 @@
 * Run the server to run the application
 ```python manage.py runserver```
 
- Now application work for ine.
+ Now play with system.
